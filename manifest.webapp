@@ -1,0 +1,29 @@
+{
+  "version": "1.0.0",
+  "name": "milestone 2",
+  "launch_path": "/index.html",
+  "description": "cs2610 milestone",
+  
+  "developer": {
+  
+    "name": "John Slaughter"
+	
+  },
+  "installs_allowed_from": [
+  
+  
+    "*"
+  ],
+  "default_locale": "en",
+  "permissions": {
+  },
+  "locales": {
+    "en": {
+	
+	
+	"description": "cs2610 final"
+      "name": "Milestone 2",
+      
+    }
+  }
+}
